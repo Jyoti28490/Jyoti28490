@@ -11,7 +11,7 @@ I am Jyoti a passionate React Developer who loves learning 🤓 new technologies
 <br />--!>
 
 
-🔭 I’m currently working on - Netflix Clone Login Page <br />
+🔭 I’m currently working on - learning Tailwing CSS <br />
 🌱 I’m currently learning - React Redux and animations in CSS <br />
 👯 I’m looking to collaborate on - Projects which can help anyone grow there business to the next level 🔥🔥<br /> 
 📫 How to reach me - 📧 jyotirmayi.swain@gmail.com <br /> 
